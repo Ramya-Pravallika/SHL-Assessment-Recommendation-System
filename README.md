@@ -2,6 +2,8 @@
 
 This project is an intelligent recommendation system designed to help recruiters find relevant SHL assessments based on job requirements (Natural Language queries, Job Descriptions, or URLs).
 
+live Link : https://shl-assessmentrecommendationsystem.streamlit.app/ 
+
 ## 🚀 Key Features
 
 - **Intelligent Search**: Semantically understands job requirements beyond simple keyword matching.
