@@ -1,7 +1,8 @@
 from recommender import SHLRecommender
 from llm_utils import LLMUtils
 import os
-
+import streamlit as st
+import pandas as pd
 # Page Config
 st.set_page_config(page_title="SHL Assessment Recommender", page_icon="📈", layout="wide")
 
